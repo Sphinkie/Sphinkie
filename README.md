@@ -1,4 +1,6 @@
-### Hi there 👋
+## Personal & Professional Software Repository
+
+see more on my ⚡ [profile page](https://sphinkie.github.io) ⚡ !
 
 <!--
 **Sphinkie/Sphinkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
